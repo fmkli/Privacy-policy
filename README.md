@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Privacy-policy  
+About the privacy policy in the website built by fmkli  
 
-You can use the [editor on GitHub](https://github.com/fmkli/Privacy-policy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 隐私政策
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+一个关于fmkli所搭建网站的的隐私政策
 
-### Markdown
+## 我们是谁
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们的站点地址是：https://www.imfmkli.top 及 其他网站
 
-```markdown
-Syntax highlighted code block
+## 评论
 
-# Header 1
-## Header 2
-### Header 3
+当访客留下评论时，我们会收集评论表单所显示的数据，和访客的IP地址及浏览器的user agent字符串来帮助检查垃圾评论。  
+由您的电子邮箱地址所生成的匿名化字符串（又称为哈希）可能会被提供给Gravatar服务确认您是否有使用该服务。Gravatar服务的隐私政策在此：[https://automattic.com/privacy/](https://automattic.com/privacy/) 在您的评论获批准后，您的资料图片将在您的评论旁公开展示。
 
-- Bulleted
-- List
+## 媒体
 
-1. Numbered
-2. List
+如果您在我们的站点上留下评论，您可以选择用cookies保存您的名字、电子邮箱地址和网站地址。这是通过让您可以不用在评论时再次填写相关内容而向您提供方便。
 
-**Bold** and _Italic_ and `Code` text
+此站点上的文章可能会包含嵌入的内容（如视频、图片、文章等）。来自其他站点的嵌入内容的行为和您直接访问这些其他站点没有区别。
 
-[Link](url) and ![Image](src)
-```
+这些站点可能会收集关于您的数据、使用cookies、嵌入额外的第三方跟踪程序及监视您与这些嵌入内容的交互，包括在您有这些站点的账户并登录了这些站点时，跟踪您与嵌入内容的交互。
+我们与谁共享您的信息
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 我们保留多久您的信息
 
-### Jekyll Themes
+如果您留下评论，评论和其元数据将被无限期保存。我们这样做以便能识别并自动批准任何后续评论，而不用将这些后续评论加入待审队列。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fmkli/Privacy-policy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+对于本网站的注册用户，我们也会保存用户在个人资料中提供的个人信息。所有用户可以在任何时候查看、编辑或删除他们的个人信息（除了不能变更用户名外）、站点管理员也可以查看及编辑那些信息。
 
-### Support or Contact
+## 您对您的信息有什么权利
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+如果您有此站点的账户，或曾经留下评论，您可以请求我们提供我们所拥有的您的个人数据的导出文件，这也包括了所有您提供给我们的数据。您也可以要求我们抹除所有关于您的个人数据。这不包括我们因管理、法规或安全需要而必须保留的数据。
+我们将您的信息发送到哪
+
+访客评论可能会被自动垃圾评论监测服务检查。
